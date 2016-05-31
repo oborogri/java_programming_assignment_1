@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DemoArray()
+comment0.text=\r\n\ Creates\ new\ array\ intArray,\ of\ size\ 10\ \ \ \r\n
+comment1.params=
+comment1.target=void\ demoArray()
+comment1.text=\r\n\ Initializes\ each\ element\ of\ the\ array\ with\ 100\ +\ i,\ using\ a\ for\ loop\r\n\ Outputs\ the\ array\r\n
+comment2.params=
+comment2.target=void\ demoArray2()
+comment2.text=\r\n\ Initializes\ each\ element\ of\ the\ array\ with\ 200\ +\ 2*i,\ using\ the\ while\ loop\r\n\ Outputs\ the\ array\r\n
+comment3.params=
+comment3.target=void\ demoArray3()
+comment3.text=\r\n\ Initializes\ each\ element\ of\ the\ array\ with\ 300\ +\ 3*i,\ using\ a\ do-while\ loop\r\n\ Outputs\ the\ array\r\n
+comment4.params=
+comment4.target=void\ demoArray4()
+comment4.text=\r\n\ Creates\ an\ ArrayList\ of\ Integer\ and\ populates\ it\ using\ a\ for\ loop,\ sets\ elements\ at\ 400\ +\ 4*i\ \r\n\ Uses\ an\ iterator\ to\ go\ through\ the\ arraylist\ and\ prints\ out\ all\ the\ elements\r\n
+comment5.params=low\ hi
+comment5.target=void\ sumEven(int,\ int)
+comment5.text=\r\n\ Creates\ an\ array\ of\ even\ numbers\ in\ range\ [low,\ hi]\ with\ precondition\:\ low\ and\ hi\ must\ be\ even.\ \r\n\ Calculates\ and\ prints\ out\ the\ sum\ of\ these\ numbers.\r\n
+numComments=6

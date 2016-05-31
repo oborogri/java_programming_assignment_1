@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=title\ author\ numberPages\ ISBN
+comment0.target=Book(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Creates\ an\ instance\ of\ book\ with\ given\ parameters\ \r\n
+comment1.params=title\ author\ ISBN\ numberPages
+comment1.target=void\ setState(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Defines\ state\ of\ the\ book\ class\ fileds\ \ \r\n
+comment2.params=
+comment2.target=void\ borrow()
+comment2.text=\r\n\ Facilitates\ borrowing\ the\ book\ \r\n\ Keeps\ track\ of\ the\ number\ of\ times\ the\ book\ has\ been\ borrowed\r\n\ Warns\ the\ user\ if\ the\ book\ is\ already\ on\ loan\r\n
+comment3.params=
+comment3.target=void\ returns()
+comment3.text=\r\n\ Facilitates\ return\ of\ the\ book\ to\ the\ library\r\n\ Changes\ the\ loan\ status\ of\ the\ book\ to\ available\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment4.text=\r\n\ Returns\ title\ of\ the\ book\r\n
+comment5.params=
+comment5.target=java.lang.String\ loanStatus()
+comment5.text=\r\n\ Informs\ about\ the\ status\ of\ a\ specific\ book\ -\ on\ loan\ or\ available\ \ \ \r\n
+comment6.params=
+comment6.target=void\ printDetails()
+comment6.text=\r\n\ Prints\ out\ book\ details\ and\ loan\ status\ \ \r\n
+numComments=7

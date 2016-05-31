@@ -1,0 +1,45 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere
+-d
+C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\Sphere.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\Sphere.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_60
+Building tree for all the packages and classes...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\doc\Sphere.html...
+C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\Sphere.java:17: warning - @default is an unknown tag.
+C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\Sphere.java:64: warning - @param argument "double" is not a parameter name.
+C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\Sphere.java:73: warning - @param argument "number" is not a parameter name.
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\doc\package-frame.html...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\doc\package-summary.html...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\doc\allclasses-frame.html...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\doc\allclasses-noframe.html...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\doc\index.html...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\Asignment 1\Q1_Sphere\doc\stylesheet.css...
+3 warnings

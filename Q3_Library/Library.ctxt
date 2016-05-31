@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Library()
+comment0.text=\r\n\ Constructs\ a\ default\ Library\ as\ list\ \r\n
+comment1.params=book
+comment1.target=void\ add(Book)
+comment1.text=\r\n\ Adds\ a\ book\ object\ to\ the\ Lybrary\ list\r\n
+comment2.params=
+comment2.target=int\ numberBooks()
+comment2.text=\r\n\ Retursn\ number\ of\ books\ in\ the\ Lybrary\r\n
+comment3.params=book
+comment3.target=java.lang.String\ loanStatus(Book)
+comment3.text=\r\n\ Returns\ details\ of\ a\ specific\ book\ loan\ status\r\n
+comment4.params=book
+comment4.target=java.lang.String\ hasBook(Book)
+comment4.text=\r\n\ Informs\ whether\ a\ specific\ book\ is\ in\ the\ Library\ collection\ \ \r\n
+comment5.params=book
+comment5.target=boolean\ removeBook(Book)
+comment5.text=\r\n\ Removes\ a\ specific\ book\ from\ Library\ collection\r\n\ returns\ true\ if\ successful\r\n\ returns\ false\ if\ not\ successful\ or\ book\ not\ in\ the\ Library\ \r\n
+comment6.params=
+comment6.target=void\ removeAllBooks()
+comment6.text=\r\n\ Removes\ all\ books\ from\ the\ Lubary\ collection\r\n
+comment7.params=
+comment7.target=void\ printDetailsAll()
+comment7.text=\r\n\ Prints\ details\ of\ all\ books\ in\ the\ Library\r\n
+numComments=8
