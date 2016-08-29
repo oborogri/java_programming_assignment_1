@@ -2,12 +2,12 @@
 This assignment relates to Introduction to Java programming language, Analysis & refactoring class, Object Interaction and Grouping Objects.
 Question 1 - Develop a Sphere class with a specific Application Programming Interface (API):
   
-  public Sphere() // set the default value of the radius to 10.0
-  public Sphere(double radius)
-  public double surfaceArea() // surface area of sphere 
-  public double volume() // the volume of sphere 
-  public double greatCircle() // circumference of great circle
-  public void changeSize(double radius) // facilitates radius reset
+  public Sphere(); // set the default value of the radius to 10.0
+  public Sphere(double radius);
+  public double surfaceArea(); // surface area of sphere 
+  public double volume(); // the volume of sphere 
+  public double greatCircle(); // circumference of great circle
+  public void changeSize(double radius); // facilitates radius reset
   public int getNumberSpheres(); // number of Sphere objects created
   
   Question 2 - Develope the DemoArray class in the arrays project.
@@ -16,28 +16,28 @@ Question 1 - Develop a Sphere class with a specific Application Programming Inte
   
   3.1 - Develop a Book class with the following API:
 
-public Book(String title, String author, int numberPages, String isbn)
-public void borrow()        // borrow a book
-public boolean isBorrowed() // is book on loan?
-public void returns()       // return book 
-public String loanStatus()  // print a message
-public void printDetails()  // print details re book
-public String getTitle()      // return book title
+public Book(String title, String author, int numberPages, String isbn);
+public void borrow();        // borrow a book
+public boolean isBorrowed(); // is book on loan?
+public void returns();       // return book 
+public String loanStatus();  // print a message
+public void printDetails();  // print details re book
+public String getTitle();      // return book title
 
 3.2 Write a simple Library class in which to store books. Here is its API:
 
-public void     add(Book book)
-public int      numberBooks()
-public String   loanStatus(Book book)
-public String   hasBook(Book book)
-public boolean  removeBook(Book book)
-public void     removeAllBooks()
-public void     printDetailsAll() // print details all books in library
+public void add(Book book);
+public int numberBooks();
+public String loanStatus(Book book);
+public String hasBook(Book book);
+public boolean removeBook(Book book);
+public void removeAllBooks();
+public void printDetailsAll(); // print details all books in library
 
 3.3 Create a Librarian class. Use this to test the Book and Library classes
 
-public Librarian()
-public void unitTest()
+public Librarian();
+public void unitTest();
 
 Question 4 - relates to the String class. Complete the class by adding the following methods:
 
